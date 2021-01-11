@@ -1,0 +1,12 @@
+body {
+    background-image: url('../img/background-particles.png');
+    background-size: cover;
+}
+
+#rising-crows-logo {
+    background-image: url('../img/rising-crows.png');
+    background-size: contain;
+    width: 640px;
+    height: 505px;
+    margin: auto;
+}
