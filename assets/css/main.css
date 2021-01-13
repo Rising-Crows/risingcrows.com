@@ -35,3 +35,7 @@ ul {
     text-decoration: none;
     background-color: white;
 }
+
+#letras-escudo {
+    height: 3em;
+}
