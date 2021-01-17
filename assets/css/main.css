@@ -1,3 +1,8 @@
+html {
+	font-size: 15pt;
+	background-color: black;
+}
+
 body {
     background-image: url('../img/background-particles.png');
     background-size: cover;
@@ -39,3 +44,17 @@ ul {
 #letras-escudo {
     height: 3em;
 }
+
+h1 {
+    font-family: 'Robotech GP';
+    color: #ca62c2;
+    font-size: 3em;
+}
+
+@font-face {
+    font-family: 'Robotech GP';
+    src: url('../font/robotech-gp.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+  
